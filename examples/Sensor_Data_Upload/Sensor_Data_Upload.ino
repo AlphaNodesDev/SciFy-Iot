@@ -12,7 +12,7 @@
    👨‍💻 Developer:          Abhiram S (AlphaNodesDev)
 */
 
-#include "SciFyIot.h"
+#include "SciFyIoT.h"
 
 // ================== WiFi Credentials ==================
 const char* ssid = "YOUR_WIFI";
